@@ -4,7 +4,7 @@ y = 0
 while True:
     if x == y:
         print("{} = {}".format(x,y))
-        continue;
+        continue
     print("{} != {}".format(x,y))
 
     y += 1
